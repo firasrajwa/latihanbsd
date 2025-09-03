@@ -1,0 +1,2 @@
+# latihanbsd
+Sistem Informasi Terintegrasi
